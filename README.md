@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thelinson
 - 👀 I’m interested in building data solutions
-- 🌱 I’m currently learning learning Modern Data Stack
+- 🌱 I’m currently learning about Modern Data Stack
 - 💞️ I’m looking to collaborate on Python project in Analytics Engineering
 - 📫 How to reach me ...
 
